@@ -1,6 +1,3 @@
-# manasalgados
-
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -432,4 +429,4 @@
                 <div class="service-icon">🎉</div>
                 <h3><i class="fas fa-party-horn"></i> Festas</h3>
                 <p style="font-size: 1.2em; margin: 20px 0;">Sua festa perfeita com nossos salgados! ✨</p>
-                <a href="https://wa.me/5518991252835
+                <a href="https://wa.me/551899
